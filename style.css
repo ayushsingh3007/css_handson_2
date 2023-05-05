@@ -1,0 +1,162 @@
+#bg-color{border: 3px solid black;
+	
+	
+	margin: unset;
+
+	background-image: url(https://media.istockphoto.com/id/1322277517/photo/wild-grass-in-the-mountains-at-sunset.jpg?s=612x612&w=0&k=20&c=6mItwwFFGqKNKEAzv0mv6TaxhLN3zSE43bWmFN--J5w=);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+	.border-line{width:30%;
+        height: 650px;
+        
+		margin: auto;
+		margin-top: 50px;
+		margin-left: auto;
+		margin-right: 10px;
+padding: 5px,10px,10px,0px;
+
+		border: 5px solid red;
+	border-style: dashed;
+	color: red;
+	text-align: center;
+
+}
+#set{text-align: center;
+}
+#heading{padding: 10px,40px,10px;
+font-size: 14px;}
+#form{ line-height: 10px; }
+#frame-set1{width: 250px;
+	border-radius: 10px 10px 10px 10px;
+	height: 90px;
+	
+           border: 5px solid red;
+            background-color: black;
+            color: rgb(255,255,255);
+            margin: 20px 1px 99px 10px;
+            text-align: center;
+            font-style: italic;
+            
+        }
+#frame-set2{width: 27%;
+	height: 20px;
+    border-radius: 30%;
+text-shadow: none;
+
+	
+	padding: 21px;
+	word-spacing: 10px;
+           border: 5px solid red;
+            background-color: black;
+            color: rgb(255,255,255);
+            text-align: center;
+           font-style: italic;
+           margin-top: -200px;
+           margin-right: -400px;
+           margin-left: 220px;
+           }
+           #content-2{text-align: center;
+                     font-style: italic;}
+#frame-set3{width: 200px;
+	border-radius: 10px 10px 10px 10px;
+	height: 150px;
+	padding: auto;
+           border: 5px solid red;
+            background-color: black;
+            color: rgb(255,255,255);
+            
+           
+            margin-top: -80px;
+            margin-right: 20px;
+            margin-left: auto;
+            
+        }
+        #textalign-1{text-align: center; 
+        	font-style: italic;
+        	line-height: 25px;
+
+        }
+#frameset-4{width: 300px;
+            height: 300px;
+            border: 2px solid black;
+            background-color: green;
+            border-radius: 50%;
+            margin-bottom: 800px;
+            margin-right: 600px;
+             margin-left: 10px;
+             margin-top: -300px}
+            #textalign{text-align: center;
+            	padding-top: 50px;
+            	padding-bottom: 50px;
+            	padding-right: 50px;
+            	padding-left: 50px;
+            	line-height: 25px;
+            	text-decoration: underline;}
+#frameset-5{width: 250px;
+    height: 50px;
+border: 5px solid red;
+border-radius: 20%;
+padding: 21px;
+background-color: black;
+color: rgb(255,255,255);
+margin-top: -750px;
+margin-left: 38%;
+align-items: center;}
+#styling{text-align: center;
+          padding: 25px,50px,25px;}
+
+
+.textcenter{text-align:center;}
+
+#ratting{width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	background-color:  black;
+	color: rgb(255,255,255);
+	font-size: 15px;
+	padding: 40px 40px;
+border-radius: 800px;
+         border: 10px solid red;
+     }
+     #container{widhth:  900px;
+    
+        
+        
+        display: inline-block;
+        display: flex;
+        flex-flow: wrap;
+        justify-content: center;
+        justify-content: space-around;
+        
+        
+        align-items: center;
+        flex-direction: row;}
+        .list{ width: 280px;
+            padding-bottom: 10px;
+        height: 300px;
+        border: 2px black;
+        text-align: center;
+        background-color: orange;
+        box-sizing: all; }
+    #container_2{widhth:  900px;
+    
+        
+        
+        display: inline-block;
+        display: flex;
+        flex-flow: wrap;
+        justify-content: center;
+        justify-content: space-around;
+        
+        
+        align-items: center;
+        flex-direction: row;}
+         .list1{ width: 280px;
+        height: 300px;
+        padding-bottom: 10px;
+        border: 2px black;
+        text-align: center;
+        background-color: orange; 
+        margin: 20px; 
+        box-sizing: all;}
